@@ -1,0 +1,10 @@
+{
+  "build": {
+    "commands": [
+      "npm install"
+    ]
+  },
+  "deploy": {
+    "startCommand": "node src/bot.js"
+  }
+}
